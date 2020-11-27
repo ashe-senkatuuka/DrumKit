@@ -1,5 +1,7 @@
 # DrumKit
 Drumkit on your keyboard
+Preview on the link below
+https://ashe-senkatuuka.github.io/DrumKit/
 
 30 Day Vanilla Javascript Challenge by [WesBos](https://javascript30.com/)
 
